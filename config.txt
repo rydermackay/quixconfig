@@ -1,1 +1,1 @@
-wwdc http://asciiwwdc.com/search?q=%s
+wwdc	http://asciiwwdc.com/search?q=%s	Search <a href="http://asciiwwdc.com">ASCIIwwdc</a>
